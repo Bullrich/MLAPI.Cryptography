@@ -1,0 +1,16 @@
+{
+    "name": "MLAPI.Cryptography.Examples",
+    "references": [
+        "MLAPI.Cryptography"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": []
+}

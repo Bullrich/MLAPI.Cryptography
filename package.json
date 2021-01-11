@@ -1,0 +1,27 @@
+﻿{
+  "name": "io.midlevel.mlapi.cryptography",
+  "version": "1.0.0",
+  "displayName": "MLAPI.Cryptography",
+  "description": "MLAPI.Cryptography is a Unity friendly crypto library to fill the missing features of Unity's Mono runtime framework.",
+  "unity": "2018.4",
+  "unityRelease": "20f1",
+  "keywords": [
+    "cryptography",
+    "ellipticCurves",
+    "keyExchanges",
+    "unity"
+  ],
+  "homepage": "https://github.com/Bullrich/MLAPI.Cryptography",
+  "bugs": {
+    "url": "https://github.com/MidLevel/MLAPI.Cryptography/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:Bullrich/MLAPI.Cryptography.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Albin Coren",
+    "url": "https://github.com/TwoTenPvP"
+  }
+}

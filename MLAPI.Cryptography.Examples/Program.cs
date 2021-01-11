@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Security.Cryptography;
 using MLAPI.Cryptography.KeyExchanges;
+using ECDiffieHellman = MLAPI.Cryptography.KeyExchanges.ECDiffieHellman;
 
 namespace MLAPI.Cryptography.Examples
 {
